@@ -1,0 +1,15 @@
+---
+
+# **📌 .gitignore**
+
+```gitignore
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore editor files
+*.swp
+*.swo
+
+# Ignore logs
+*.log
